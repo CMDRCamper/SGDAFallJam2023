@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IntoTheCell",
+			"Path": "C:\\Users\\jimmy\\OneDrive\\Documents\\Unreal Projects\\SGDAFallJam2023\\IntoTheCell\\Source\\IntoTheCell.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IntoTheCellEditor",
+			"Path": "C:\\Users\\jimmy\\OneDrive\\Documents\\Unreal Projects\\SGDAFallJam2023\\IntoTheCell\\Source\\IntoTheCellEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

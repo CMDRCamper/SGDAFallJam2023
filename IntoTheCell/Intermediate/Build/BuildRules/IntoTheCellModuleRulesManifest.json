@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jimmy\\OneDrive\\Documents\\Unreal Projects\\SGDAFallJam2023\\IntoTheCell\\Source\\IntoTheCell\\IntoTheCell.Build.cs",
+		"C:\\Users\\jimmy\\OneDrive\\Documents\\Unreal Projects\\SGDAFallJam2023\\IntoTheCell\\Source\\IntoTheCell.Target.cs",
+		"C:\\Users\\jimmy\\OneDrive\\Documents\\Unreal Projects\\SGDAFallJam2023\\IntoTheCell\\Source\\IntoTheCellEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
