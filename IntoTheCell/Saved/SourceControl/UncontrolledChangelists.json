@@ -12,7 +12,10 @@
 				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/walls/wall_side_tile.uasset",
 				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/walls/wall_back_tile.uasset",
 				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/walls/wall_corner_tile.uasset",
-				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0.umap"
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0.umap",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/walls/wall_back_light.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/walls/wall_side_light.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/BP_MouseControl.uasset"
 			]
 		}
 	]
