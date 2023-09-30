@@ -9277,3 +9277,280 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.09.30-12.57.36:456][646]AssetCheck: New page: Asset Save: GridManager
 [2023.09.30-12.57.36:456][646]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Grid/GridManager.GridManager
 [2023.09.30-12.58.07:735][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2023.09.30-12.58.51:195][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.09.30-12.58.51:289][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-12.58.51:293][388]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2023.09.30-12.58.51:299][388]Cmd: MAP LOAD FILE="../../../../../../Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.30-12.58.51:301][388]LightingResults: New page: Lighting Build
+[2023.09.30-12.58.51:303][388]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.09.30-12.58.51:320][388]LogWorld: UWorld::CleanupWorld for Level10, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:321][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:323][388]MapCheck: New page: Map Check
+[2023.09.30-12.58.51:323][388]LightingResults: New page: Lighting Build
+[2023.09.30-12.58.51:366][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-12.58.51:379][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.09.30-12.58.51:385][388]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:385][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:389][388]LogWorld: UWorld::CleanupWorld for Level03, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:389][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:393][388]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:393][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:396][388]LogWorld: UWorld::CleanupWorld for Level05, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:396][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:398][388]LogWorld: UWorld::CleanupWorld for Level06, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:398][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:402][388]LogWorld: UWorld::CleanupWorld for Level07, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:402][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:404][388]LogWorld: UWorld::CleanupWorld for Level08, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:404][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:407][388]LogWorld: UWorld::CleanupWorld for Level09, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.58.51:407][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.58.51:447][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.09.30-12.58.51:484][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.09.30-12.58.51:500][388]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.09.30-12.58.51:501][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-12.58.51:501][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.30-12.58.51:501][388]LogAIModule: Creating AISystem for world MainMenu
+[2023.09.30-12.58.51:562][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.30-12.58.51:608][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.09.30-12.58.51:619][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.30-12.58.51:620][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.507ms to complete.
+[2023.09.30-12.58.51:621][388]LogFileHelpers: Loading map 'MainMenu' took 0.326
+[2023.09.30-12.58.51:648][388]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.51:649][388]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.52:484][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.30-12.58.52:500][404]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.30-12.58.52:734][404]LogPlayLevel: [PlayLevel] Compiling GridManager before play...
+[2023.09.30-12.58.53:040][404]LogPlayLevel: [PlayLevel] Compiling BP_MouseControl before play...
+[2023.09.30-12.58.53:227][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.09.30-12.58.53:234][404]LogPlayLevel: PlayLevel: Blueprint regeneration took 736 ms (2 blueprints)
+[2023.09.30-12.58.53:234][404]PIE: New page: PIE session: MainMenu (Sep 30, 2023, 2:58:53 AM)
+[2023.09.30-12.58.53:235][404]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.09.30-12.58.53:238][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002743s)
+[2023.09.30-12.58.53:238][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002864s)
+[2023.09.30-12.58.53:238][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-12.58.53:238][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.30-12.58.53:241][404]LogAIModule: Creating AISystem for world MainMenu
+[2023.09.30-12.58.53:241][404]LogPlayLevel: PIE: World Init took: (0.004267s)
+[2023.09.30-12.58.53:274][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.09.30-12.58.53:275][404]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.30-12.58.53:276][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.30-12.58.53:276][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-12.58.53:277][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-12.58.53:277][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-12.58.53:277][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-12.58.53:283][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.30-12.58.53:329][404]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.09.30-12.58.53:330][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-12.58.53:330][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-12.58.53:330][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-12.58.53:331][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.09.30-12.58.53:331][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.09.30-12.58.53:336][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.09.30-12.58.53:336][404]LogInit: FAudioDevice initialized with ID 6.
+[2023.09.30-12.58.53:336][404]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2023.09.30-12.58.53:336][404]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.30-12.58.53:337][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.09.30-12.58.53:355][404]LogLoad: Game class is 'MouseControl_C'
+[2023.09.30-12.58.53:355][404]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.09.30-07.58.53
+[2023.09.30-12.58.53:356][404]LogWorld: Bringing up level for play took: 0.000678
+[2023.09.30-12.58.53:362][404]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.09.30-12.58.53:366][404]LogMediaAssets: Error: Failed to validate media source GreenProgressBar (file://C:/Users/pnewe/Downloads/GreenProgressBar.mp4)
+[2023.09.30-12.58.53:366][404]LogMediaAssets: Error: Failed to validate media source GreenStandbyBar (file://C:/Users/pnewe/Downloads/GreenStandbyBar.mp4)
+[2023.09.30-12.58.53:366][404]LogMediaAssets: Error: Failed to validate media source GreenStandbyBar (file://C:/Users/pnewe/Downloads/GreenStandbyBar.mp4)
+[2023.09.30-12.58.53:366][404]PIE: Server logged in
+[2023.09.30-12.58.53:366][404]PIE: Play in editor total start time 0.871 seconds.
+[2023.09.30-12.58.53:377][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:377][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:378][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:380][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:380][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:381][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:381][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:382][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:382][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:383][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:384][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.58.53:384][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.19:479][ 34]LogLongPackageNames: Warning: Can't Find URL: Level0: . Invalidating and reverting to Default URL.
+[2023.09.30-12.59.19:488][ 34]LogLongPackageNames: Warning: Can't Find URL: Level0: . Invalidating and reverting to Default URL.
+[2023.09.30-12.59.19:488][ 34]LogNet: Browse: /Engine/Maps/Templates/OpenWorld
+[2023.09.30-12.59.19:489][ 34]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Engine/Maps/Templates/OpenWorld
+[2023.09.30-12.59.19:490][ 34]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Engine/Maps/Templates/OpenWorld'
+[2023.09.30-12.59.19:493][ 34]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Engine/Maps/Templates/OpenWorld
+[2023.09.30-12.59.19:493][ 34]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Engine/Maps/Templates/OpenWorld'
+[2023.09.30-12.59.19:501][ 35]LogNet: Browse: /Engine/Maps/Templates/OpenWorld?closed
+[2023.09.30-12.59.19:501][ 35]LogNet: Connection failed; returning to Entry
+[2023.09.30-12.59.19:504][ 35]LogLoad: LoadMap: /Engine/Maps/Templates/OpenWorld?closed
+[2023.09.30-12.59.19:504][ 35]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.09.30-12.59.19:519][ 35]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.59.19:520][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.59.19:575][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-12.59.19:596][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.09.30-12.59.19:633][ 35]LogAudio: Display: Audio Device (ID: 6) registered with world 'OpenWorld'.
+[2023.09.30-12.59.19:634][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-12.59.19:634][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.30-12.59.19:635][ 35]LogAIModule: Creating AISystem for world OpenWorld
+[2023.09.30-12.59.19:642][ 35]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorld)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.30-12.59.19:642][ 35]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.30-12.59.19:642][ 35]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorld, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.09.30-12.59.19:696][ 35]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.30-12.59.19:697][ 35]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.30-12.59.19:697][ 35]LogWorldPartition: Display: GetPartitionedActors took 699 us (total: 1 ms)
+[2023.09.30-12.59.20:159][ 35]LogWorldPartition: Display: GenerateStreaming took 463 ms (total: 777 ms)
+[2023.09.30-12.59.20:170][ 35]LogContentBundle: [OpenWorld(Standalone)] Creating new contrainer.
+[2023.09.30-12.59.20:170][ 35]LogWorldPartition: Display: WorldPartition initialize took 528 ms (total: 1.54 sec)
+[2023.09.30-12.59.20:170][ 35]LogPlayLevel: PIE: World Init took: (0.538036s)
+[2023.09.30-12.59.20:172][ 35]LogLoad: Game class is 'GameModeBase'
+[2023.09.30-12.59.20:191][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/3O/LQ9LHAPSPR2ZQON593WMVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:191][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/W5/RZKDGOKU0HOUR9XR3OORWP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/QA/56OJ68IEIQK6AZD998V9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/AJ/7C8JC8FV0F2O6Y16RNPPG5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/9D/DB7HESC98L3P1C0EXJ9VNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/5J/220CT5CUS77FQ1Y0UX22G1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/35/J016PIHOM9QMV09QAXSB71.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/2T/LW1MREPFXBPLJCYEDJ1QEP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/0N/MJ50OORWK9B5CCTZI745ZN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/AK/1ZC2T0VGQ3SM7U375JQUCB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/1C/J2AQ1EOULFDGSSVCOF21IT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/V2/79GVO9T8L33D7PL17IOCH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/UL/XUI40KZY0W19J25ADZ69HZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/XN/M3T3ZY3QR38M3HXIVWF08Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/EF/AVEFB64683AQF9CJYB93DM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/8F/UILAR7KZF01SB5K1TYIOQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/5T/8AVXKOA01TLOBAI26Z84M0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/VM/KITGMOBNCKMQD53U939GKS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/9E/VK298XRD5A11VYGHFC41A9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/8P/TLD3VX5ZWRDBTWGHZBD6B2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/67/SCIVTASLB1G49QJSTRVO2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/V1/G2IAL67Q51RDGY0JARYZFC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/Q1/OIHEIVHOC755KY4AIIXZHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/F4/M3J0ZJ0BV28M5Q99SOM48Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/2P/WBW9CAOQGGZICLNBCFDJSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/WR/5KB6IQ3V0QMTIH5VVAM109.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/OY/I7W1YSC8BUMH1JML1SHYXU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/N5/WGVE0AJGDUHGENADZV58M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/MN/ZRKV9F579IVFLFFQFWCNP1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/CV/ZVNWWCCOSQTHJQ00OL87PP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/SE/IMNTWHEYXWFLFNO0VMZCOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/PI/Q9H1B01GIQ3UAILDCXPKFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/ON/R223RRK3MH511F5YGGE4W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/L9/WMO74VATJJT97G0ETQHDV9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/833TP0FSFQQBWAZGJXKH6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/U7/26ZHDTM3CBW86ZMVC0MC81.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/IUFBX0244AWDZMZZHDKTKO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/OEPEEFQ7A0CTPWQWFEJ9PV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CM/ZZ4QMO3QO20LLLWIKB49QY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CK/3U7ZZLZZY4U2JGYD4CD484.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/3V/5E7YRRLHOPYOL7E03MPXZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/27/MBLYVKKRPXBTRA7FIYDZJJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/J1XJFLPOFLBJRCPMFGF6C5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/US/DINUB3VE6STDFAC2VZ35GN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/8P/VNJEVDB5K2D6L9KMNKBN6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/YK/NH0RQ83YOTSLK0KQ86IP4N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:192][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/JA/4Y1UNG2T4GPFYJ7KPEDYVV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/DZ/XTTNN5AZ8XZMSVE9GQR3TC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/8A/NXI3LY5DSH0JCF4MEEBM4X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4V/V25VGP3M2HPQ1P7Y76DI4R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/1T/ZL0Y1EEN97U5ZPYDIC5SAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/MS/53FFO8N8QMR5EZSU2BXG3T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/BZ/AQH36VQUL6RRNO1G8N89X8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/9R/JT69U2ZIH2ZJJUXUASV0F0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/Z0/SDO6T5HIB7O50OBHISZCIX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/XB/YH1MJRWSG6K7YKOSQWYADL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UP/XJC4J420XXOSGPB2F4H7ED.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UK/3OKX6C10NWGHVWYQ7NH21G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/T3/SQJ7JELAW5XSTP1JS5QJMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/K2/C74PLGXI2R9LW6IVE6AVMG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/G8/NGJ7QFQVTY01UZE0GQ5QX3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/DN/XR8P0OHQ2UMD5YU47C20EK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/AB/1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.09.30-12.59.20:193][ 35]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/77/QTK2TOFAKUCC4OH745GDVF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.09.30-12.59.20:225][ 35]LogWorld: Bringing World /Engine/Maps/Templates/UEDPIE_0_OpenWorld.OpenWorld up for play (max tick rate 60) at 2023.09.30-07.59.20
+[2023.09.30-12.59.20:225][ 35]LogWorld: Bringing up level for play took: 0.014834
+[2023.09.30-12.59.20:225][ 35]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.09.30-12.59.20:235][ 35]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(36), CellsToLoad(0), CellsToUnload(0)
+[2023.09.30-12.59.20:235][ 35]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.09.30-12.59.20:245][ 35]LogStreaming: Display: FlushAsyncLoading(-1): 36 QueuedPackages, 0 AsyncPackages
+[2023.09.30-12.59.20:605][ 35]LogTexture: Display: Waiting for textures to be ready 0/432 (/Memory/UEDPIE_0_OpenWorld_MainGrid_L0_X-3_Y-3_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/NJ/82MLNKCEZ5S5X05ZNVY7W4) ...
+[2023.09.30-12.59.25:016][ 35]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: ================================================
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Total job queries 30, among them cache hits 6 (20.00%)
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 17 distinct outputs (70.83%)
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: RAM used: 56.14 KiB of 409.60 MiB budget. Usage: 0.01%
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2023.09.30-12.59.25:327][ 35]LogShaderCompilers: Display: Job execution time: average 8.15 s, max 8.25 s
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Job life time (pending + execution): average 8.15 s, max 8.26
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.26 s
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Average processing rate: 0.48 jobs/sec
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Total thread time: 17.631 s
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Total thread preprocess time: 2.855 s
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Percentage time preprocessing: 16.19%
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 4.69 sec, max 4.69 sec, min 4.69 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 4.58 sec, max 4.58 sec, min 4.58 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 4.37 sec, max 4.37 sec, min 4.37 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.58% of total time (compiled    1 times, average 4.69 sec, max 4.69 sec, min 4.69 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.97% of total time (compiled    1 times, average 4.58 sec, max 4.58 sec, min 4.58 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.76% of total time (compiled    1 times, average 4.37 sec, max 4.37 sec, min 4.37 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 22.68% of total time (compiled    1 times, average 4.00 sec, max 4.00 sec, min 4.00 sec)
+[2023.09.30-12.59.25:328][ 35]LogShaderCompilers: Display: ================================================
+[2023.09.30-12.59.25:624][ 35]LogLoad: Took 6.120215 seconds to LoadMap(/Engine/Maps/Templates/OpenWorld)
+[2023.09.30-12.59.25:678][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.09.30-12.59.25:747][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.25:758][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.25:760][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.25:761][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.26:030][ 36]LogAutomationController: Ignoring very large delta of 6.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.30-12.59.26:307][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.26:318][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.26:319][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.26:321][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.26:974][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-12.59.26:975][ 51]LogWorld: BeginTearingDown for /Engine/Maps/Templates/UEDPIE_0_OpenWorld
+[2023.09.30-12.59.27:038][ 51]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-12.59.27:043][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.59.27:050][ 51]LogContentBundle: [OpenWorld(Standalone)] Deleting container.
+[2023.09.30-12.59.27:114][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-12.59.27:143][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-12.59.30:896][ 51]LogMeshUtilities: Finished distance field build in 5.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.09.30-12.59.30:898][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-12.59.30:899][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.30-12.59.30:907][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.30-12.59.30:931][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.30-12.59.30:995][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.09.30-12.59.31:023][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.31:024][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.31:028][ 52]LogAutomationController: Ignoring very large delta of 4.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.30-12.59.31:031][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.09.30-12.59.31:037][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-12.59.31:038][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.30-13.00.10:355][197]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.09.30-13.00.10:359][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-13.00.10:359][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.30-13.00.10:380][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-13.00.10:380][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.30-13.00.10:411][197]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.09.30-13.00.11:179][197]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.09.30-13.00.11:197][197]LogSlate: Took 0.009234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.30-13.00.36:228][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.30-13.00.36:391][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/UI/MainMenu.uasset" SILENT=true
+[2023.09.30-13.00.36:431][100]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.09.30-13.00.36:434][100]LogSavePackage: Moving '../../../../../../Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Saved/MainMenuF6F793E14B4A10AA9C2FD185012A43FE.tmp' to '../../../../../../Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/UI/MainMenu.uasset'
+[2023.09.30-13.00.36:456][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 6.88 sec)
+[2023.09.30-13.00.36:489][100]AssetCheck: New page: Asset Save: MainMenu
+[2023.09.30-13.00.36:489][100]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
