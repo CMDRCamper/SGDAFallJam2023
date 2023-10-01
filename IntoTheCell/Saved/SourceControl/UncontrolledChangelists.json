@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"version": 1,
 	"changelists": [
@@ -55,4 +56,89 @@
 			]
 		}
 	]
+=======
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0/Shootout.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0/Shootout_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level1/Touchdown.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level1/Touchdown_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level10/DenOfLions.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level10/DenOfLions_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level11/MindTheGap.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level11/MindTheGap_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level12/RoundUp.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level12/RoundUp_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level13/Ranger.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level13/Ranger_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level2/BaitAndSwitch.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level2/BaitAndSwitch_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level3/UpAndOver.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level3/UpAndOver_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level4/BoulderPushing.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level4/BoulderPushing_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level5/Decoy.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level5/Decoy_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level6/Ambush.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level6/Ambush_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level7/KeyToVictory.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level7/KeyToVictory_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level8/Alleyway.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level8/Alleyway_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level9/ChuckIntro_Units.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Levels/Level9/ChuckIntro.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/Baiter_Pulse.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/Chuckster_Throw.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/Chuckster_Throw_V2.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/DeathExplosion.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/Hit.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/SEs/Shooter_Shot.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Grid/GridManager.uasset",
+				"C:/Users/jimmy/OneDrive/Documents/Unreal Projects/SGDAFallJam2023/IntoTheCell/Content/Units/Sniper.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0/Shootout.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level0/Shootout_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level1/Touchdown.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level1/Touchdown_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level10/DenOfLions.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level10/DenOfLions_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level11/MindTheGap.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level11/MindTheGap_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level12/RoundUp.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level12/RoundUp_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level13/Ranger.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level13/Ranger_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level2/BaitAndSwitch.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level2/BaitAndSwitch_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level3/UpAndOver.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level3/UpAndOver_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level4/BoulderPushing.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level4/BoulderPushing_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level5/Decoy.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level5/Decoy_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level6/Ambush.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level6/Ambush_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level7/KeyToVictory.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level7/KeyToVictory_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level8/Alleyway.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level8/Alleyway_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level9/ChuckIntro_Units.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Levels/Level9/ChuckIntro.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/HUD.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/HowToPlay.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/CurrentTurn.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/BasicUnit.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/Baiter.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/NotShooter.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/RightMouse.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/S_P_A_C_E.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/Chuckster.uasset"
+			]
+		}
+	]
+>>>>>>> main
 }
