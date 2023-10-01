@@ -41,7 +41,17 @@
 				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/NotShooter.uasset",
 				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/RightMouse.uasset",
 				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/S_P_A_C_E.uasset",
-				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/Chuckster.uasset"
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Units/Chuckster.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/Baiter_Pulse.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/Chuckster_Throw.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/Chuckster_Throw_V2.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/DeathExplosion.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/Hit.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/SEs/Shooter_Shot.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/Grid/Floor/MI_Floor_Green.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/AttackUp.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/DefenseUp.uasset",
+				"C:/Users/pnewe/OneDrive/Desktop/Unity/SGDAFallJam2023/IntoTheCell/Content/UI/Damage_FX.uasset"
 			]
 		}
 	]
